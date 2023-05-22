@@ -1,0 +1,5 @@
+,File,Mode,Feature ID,Retention time,M/Z ratio,Adduct rule,Direction
+0,I16_HILIC_neg.csv,Negative,FT0266,485.347048216981,201.024825987055,2M+FA-H ,Direct
+1,I16_HILIC_neg.csv,Negative,FT0305,408.525774036198,215.04179410465,2M+Hac-H ,Direct
+2,I16_HILIC_pos.csv,Positive,FT0016,74.5922618517342,79.0213656319348,M+H ,Direct
+3,I16_RP_pos.csv,Positive,FT0022,68.8208718644753,79.0210257699709,M+H ,Direct
